@@ -1,0 +1,8 @@
+﻿Gisselle Flores
+COM421 Project Critique
+
+
+For this project, I thought the best approach for the styling and structure to be simple, “less is more.” Because of that, I kept the page’s structure simple and chose a readable, non-distracting font as well as a consistent purple color scheme and an off-white background so as to not distract the reader with an overly dark background or a plain white background. 
+
+
+There were two structural elements of the website that I would’ve changed if I had more time. The first one begins at the navbar: I would have created a navbar with slightly more spacing and I would have made it a little bigger. The second thing would be the home button, which I also would have made bigger, maybe creating an icon for it instead of just “Home”. When running my HTML pages through the W3C specifications, I was told that nested <ul> tags were not fully functional, though I couldn’t find another way to structure the nested lists on the research page. If I had more time, or a better ability to fix it, I would have done that as well.
